@@ -17,16 +17,65 @@ body {
     line-height: 1.42857143;
     color:     #333;
 	Background-color:#fcfcfc;
+	width:100%;
 }
 
 .content {min-height:600px !important; border:1px gray dotted; 
 margin-left:10px;margin-right:10px;
 }
 
-.footer{width:105%; padding:20px; 
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.footer{padding:20px; 
 min-height:100px; 
 border:1px gray dotted;
-background-color:lightgray;}
+position: static;
+   margin:auto;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
 
 h1,h2,h3{font-size:18px;}
 
