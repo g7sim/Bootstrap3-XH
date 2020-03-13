@@ -9,5 +9,9 @@ Das spezielle blaue bootstrap.min.css ist auf Bootpress.org frei herunterladbar.
 
 Die dortigen herunterladbaren Templates laufen mit diesem Template durch einfachen Austausch der bootstrap.min.css.
 
+Das große bootstrap-min.js ist für die Navigation nicht notwenig sondern nur für Effekte im Content. 
+
+Unter /js sind auch einzelne kleinere Js'se für Effekte im Template vorhanden.
+
 Diese Version ist die erste Beta. Wünschen und Anregungen bitte unter Issues.
 
