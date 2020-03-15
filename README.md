@@ -13,5 +13,5 @@ Das große bootstrap-min.js ist für die Navigation nicht notwendig sondern nur 
 
 Unter /js sind auch einzelne kleinere Js'se für Effekte im Template vorhanden.
 
-Diese Version ist die erste Beta. Wünschen und Anregungen bitte unter Issues.
+Diese Version ist die zweite Beta. Wünschen und Anregungen bitte unter Issues.
 
