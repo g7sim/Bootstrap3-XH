@@ -5,11 +5,11 @@ Sie basiert auf Smartmenus - Bootstrap (https://github.com/vadikom/smartmenus-bo
 
 Ein ähnliches Html-Beispiel ist auf https://codepen.io/costh/pen/YXYPGx zu sehen.
 
-Das spezielle blaue bootstrap.min.css ist auf Bootpress.org frei herunterladbar. 
+Das spezielle blaue bootstrap.min.css ist auf https://www.bootpress.org/bootstrap.html frei herunterladbar. 
 
 Die dortigen herunterladbaren Templates laufen mit diesem Template durch einfachen Austausch der bootstrap.min.css.
 
-Das große bootstrap-min.js ist für die Navigation nicht notwenig sondern nur für Effekte im Content. 
+Das große bootstrap-min.js ist für die Navigation nicht notwendig sondern nur für Effekte im Content. 
 
 Unter /js sind auch einzelne kleinere Js'se für Effekte im Template vorhanden.
 
