@@ -12,7 +12,7 @@ include $pth['folder']['template'].'menu.php';
 
 </head>
 <body id="body" <?php echo onload();?>>
-<!-- partial:index.partial.html -->
+<div class="wrap">
 <!-- Static navbar -->
 <div class="navbar navbar-default navbar-static-top" role="navigation">
   <div class="navbar-header">
@@ -40,12 +40,21 @@ include $pth['folder']['template'].'menu.php';
        </div>
     <!--container end-->
   </div>	
-	    <div id="footer" class="container footer row">
-	    <div class="col-lg-12"> 
+
+  <div id="footer" class="container-fluid footer">
+	  <div class="row"> 
+	    <div class="col-sm-4"> 
 	     <p>  Email - <?php echo mailformlink();?>  </p>
 	    </div>
-		</div>
-</div>
+		 <div class="col-sm-4"> 
+	     <p>  Email - <?php echo sitemaplink();?>  </p>
+	    </div>
+		<div class="col-sm-4"> 
+	     <p>  Email - <?php echo loginlink();?>  </p>
+	    </div>
+	  </div>
+  </div>
+</div> 	  
 <!-- Bootstrap core JavaScript -->
 <!-- Placed at the end of the document so the pages load faster -->
   
