@@ -19,5 +19,7 @@ Das große bootstrap-min.js ist für die Navigation nicht notwendig sondern nur 
 
 Unter /js sind auch einzelne kleinere Js'se für Effekte im Template vorhanden.
 
+P.S. Das Adminmenu wird leider etwas verdeckt wie bei manchen Templates. Bitte im CMS unter assets/core.css den Wert xh_adminmenu_fixed { z-index: 999999;} setzen.
+
 Diese Version ist die zweite Beta. Wünschen und Anregungen bitte unter Issues. 
 
