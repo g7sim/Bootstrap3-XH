@@ -23,18 +23,31 @@ P.S. Das Adminmenu wird leider etwas verdeckt wie bei manchen Templates. Bitte i
 
 Font Awesome ist im CMS als FA-Plugin enthalten. man kann es auch  mit :
 < ? php
+
 // if jQuery4CMSimple is installed, include it
+
 if (is_readable($pth['folder']['plugins'].'jquery/jquery.inc.php')) {
+
     include_once $pth['folder']['plugins'].'jquery/jquery.inc.php';
+    
     include_jQuery();
+    
 }
+
 // Plugin FA_XH needed
+
 if (function_exists('fa_require')) {
+
     fa_require();
+    
 } else {
+
     die('Das Template benötigt das Fa_XH-Plugin.');
+    
 }
+
 ? >
+
 einbinden.
 
 Diese Version ist die zweite Beta. Wünschen und Anregungen bitte unter Issues. 
