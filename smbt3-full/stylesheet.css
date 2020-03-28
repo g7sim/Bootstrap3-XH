@@ -23,8 +23,7 @@ body {
 }
 .wrap {width:101%;}
 
-li.sdoc{color:blue;background-color:white;text-align:left;
-    margin-left:20px;max-width:300px;}
+li.sdoc{color:blue;background-color:white;text-align:left;max-width:300px;}
 
 .container {
   width:100%;
