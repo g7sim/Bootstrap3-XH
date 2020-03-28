@@ -9,8 +9,6 @@ $("ul.menulevel7").addClass("dropdown-menu");
 $("ul.menulevel8").addClass("dropdown-menu"); 
 $("ul.menulevel9").addClass("dropdown-menu"); 
 
-$("li.sdoc").css("color", "blue").css("background-color", "white").css("text-align", "left").css("margin-left", "20px").css("max-width", "300px");
-
 $('.nav li > span').each(function() {
 var $this = $(this);
 $this.replaceWith('<a class="has-submenu xhspan" href="#">' + $this.text() + '</a>');
