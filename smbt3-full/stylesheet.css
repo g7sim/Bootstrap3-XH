@@ -111,6 +111,15 @@ a.has-submenu::after {
    vertical-align: middle;
   }
 
+a.xhspan::after { 
+   font-family: FontAwesome;
+   content: " " !important;
+   font-size:18px;
+   display: inline-block;
+   padding-left: 2px;
+   vertical-align: middle;
+  } 
+
 /*  Back-to-top */
 #to-top {
     display:none;
