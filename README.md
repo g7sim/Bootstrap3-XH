@@ -23,5 +23,7 @@ P.S. Das Adminmenu wird leider etwas verdeckt wie bei manchen Templates. Bitte i
 
 Font Awesome ist im CMS auch als FA-Plugin enthalten.
 
-Diese Version ist die zweite Beta. Wünschen und Anregungen bitte unter Issues. 
+Diese Version ist die zweite Beta. Es folgen weitere Templates mit Header und Seitenbalken.
+
+Wünschen und Anregungen bitte unter Issues. 
 
