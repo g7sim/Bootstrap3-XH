@@ -69,8 +69,8 @@ text-align: center;
 
 h1,h2,h3{font-size:18px;}
 
-@media only screen and (max-width: 600px) {
-li.doc {opacity:0.7;} }
+@media only screen and (max-width: 576px) {
+ul.menulevel1 {padding:10px;border:1px #799bb8 solid; border-radius:3px;margin:5px;} }
 
 ul.menulevel2 li a.has-submenu::after { 
     font-family: FontAwesome;
