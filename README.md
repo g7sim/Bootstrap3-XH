@@ -5,7 +5,7 @@ Sie basiert auf Smartmenus - Bootstrap (https://github.com/vadikom/smartmenus-bo
 
 Ein ähnliches Html-Beispiel ist auf https://codepen.io/costh/pen/YXYPGx zu sehen.
 
-Eine Demo dieser Version läuft auf http://ulclean.mb-info.eu.
+Eine Demo dieser Version läuft auf http://ulclean.mb-info.eu/Templates/bt3master5.
 
 Das spezielle blaue bootstrap.min.css ist auf https://www.bootpress.org/bootstrap.html frei herunterladbar. 
 
