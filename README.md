@@ -7,6 +7,7 @@ Ein ähnliches Html-Beispiel ist auf https://codepen.io/costh/pen/YXYPGx zu sehe
 
 Eine Demo dieser Version läuft auf http://ulclean.mb-info.eu/Templates/bt3master5.
 
+
 Das spezielle blaue bootstrap.min.css ist auf https://www.bootpress.org/bootstrap.html frei herunterladbar. 
 
 Die dortigen herunterladbaren Templates laufen mit diesem Template durch einfachen Austausch der bootstrap.min.css.
@@ -25,7 +26,7 @@ P.S. Das Adminmenu wird leider etwas verdeckt wie bei manchen Templates. Bitte i
 
 Font Awesome ist im CMS auch als FA-Plugin enthalten.
 
-Diese Version ist RC1. Es folgen weitere Templates mit Header und Seitenbalken.
+Diese Version ist RC2. Es folgen weitere Templates mit Header und Seitenbalken.
 
 Wünschen und Anregungen bitte unter Issues. 
 
